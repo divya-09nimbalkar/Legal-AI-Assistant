@@ -125,7 +125,7 @@ os.environ["GEMINI_API_KEY"] = "AIzaSyYourSecretKeyStringHere"
 
 ---
 
-## 📁 Project Directory Architecture
+##  Project Directory Architecture
 
 ```text
 Legal_AI_Assistant/
@@ -141,16 +141,13 @@ Legal_AI_Assistant/
 
 ---
 
-## ⚠️ Disclaimer & Safety Guidelines
+##  Disclaimer & Safety Guidelines
 
-> 🚨 **IMPORTANT NOTICE:** This platform is designed strictly as an educational proof-of-concept and a contract-auditing research assistant tool. It **does not** provide official legal advice and should never replace professional legal counsel or formal review by a qualified attorney.
+>  **IMPORTANT NOTICE:** This platform is designed strictly as an educational proof-of-concept and a contract-auditing research assistant tool. It **does not** provide official legal advice and should never replace professional legal counsel or formal review by a qualified attorney.
 
 ---
 
-## 👤 Author
+##  Author
 
 **Divya** — AI/ML Developer | B.Tech Electronics & Telecom
 
-```
-
-```
