@@ -7,7 +7,7 @@
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)]()
 
->  An interactive contract compliance and auditing application that leverages **Google Gemini 2.5-Flash JSON enforcement models** to parse raw legal text pools, isolate asymmetric liabilities, output counter-negotiation redlines, and run context-aware legal chats.
+>  An interactive contract compliance and auditing application that leverages Google Gemini 2.5-Flash JSON enforcement models to parse raw legal text pools, isolate asymmetric liabilities, output counter-negotiation redlines, and run context-aware legal chats.
 
 ---
 
