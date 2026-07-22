@@ -62,7 +62,7 @@ Raw Unstructured Contract Document Input
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 * **JSON-Forced Legal Parser:** Extracts exact clause text, assigns a standardized threat matrix tier, and suggests targeted changes based on 12 key legal criteria.
 * **Regex Hybrid Watchdog:** Combines pattern-matching rules with generative AI to spot high-liability indicators like unlimited liability or one-sided waivers.
@@ -72,7 +72,7 @@ Raw Unstructured Contract Document Input
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **AI Processing Framework:** Google Gemini 2.5-Flash (`google-generativeai`)
 * **Visual Interface Engine:** Gradio Blocks Dashboard Grid (Gradio 6.0+ compatible)
@@ -82,22 +82,22 @@ Raw Unstructured Contract Document Input
 
 ---
 
-## 📊 Jupyter Cell Sequence Blueprint
+##  Jupyter Cell Sequence Blueprint
 
 | Cell # | Type | Target Context Module | Operational Analytical Purpose |
 | :--- | :--- | :--- | :--- |
-| **Cell 1** | 📝 Markdown | **Documentation Cover** | System summary badges, feature indices, and structural maps. |
-| **Cell 2** | 💻 Code | **Package Downloads** | Installs AI libraries, pdfplumber, and core dependencies. |
-| **Cell 3** | 💻 Code | **Global Setup** | Imports libraries, sets global configurations, and initializes data class schemas. |
-| **Cell 4** | 💻 Code | **Contract Parser** | Implements the `ContractParser` module to extract structured clauses. |
-| **Cell 5** | 💻 Code | **Risk Assessment** | Defines `LegalRiskAnalyzer` for scoring and rendering risk profiles. |
-| **Cell 6** | 💻 Code | **Orchestrator Pipeline** | Builds `LegalAIAssistant` to coordinate chat histories and summarization. |
-| **Cell 7** | 💻 Code | **Verification Test Run** | Tests the pipeline end-to-end against sample commercial agreement texts. |
-| **Cell 8** | 💻 Code | **Gradio App Layout** | Launches the complete web application interface directly inside your browser. |
+| **Cell 1** |  Markdown | **Documentation Cover** | System summary badges, feature indices, and structural maps. |
+| **Cell 2** |  Code | **Package Downloads** | Installs AI libraries, pdfplumber, and core dependencies. |
+| **Cell 3** |  Code | **Global Setup** | Imports libraries, sets global configurations, and initializes data class schemas. |
+| **Cell 4** |  Code | **Contract Parser** | Implements the `ContractParser` module to extract structured clauses. |
+| **Cell 5** |  Code | **Risk Assessment** | Defines `LegalRiskAnalyzer` for scoring and rendering risk profiles. |
+| **Cell 6** |  Code | **Orchestrator Pipeline** | Builds `LegalAIAssistant` to coordinate chat histories and summarization. |
+| **Cell 7** |  Code | **Verification Test Run** | Tests the pipeline end-to-end against sample commercial agreement texts. |
+| **Cell 8** |  Code | **Gradio App Layout** | Launches the complete web application interface directly inside your browser. |
 
 ---
 
-## ⚙️ Installation & Environment Setup
+##  Installation & Environment Setup
 
 ### 1. Build Local Workspace Directory
 ```bash
