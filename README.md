@@ -100,7 +100,7 @@ Raw Unstructured Contract Document Input
 
 ### 1. Build Local Workspace Directory
 ```bash
-git clone [https://github.com/yourusername/Legal_AI_Assistant.git](https://github.com/yourusername/Legal_AI_Assistant.git)
+git clone [https://github.com/divya-09nimbalkar/Legal_AI_Assistant.git](https://github.com/divya-09nimbalkar/Legal_AI_Assistant.git)
 cd Legal_AI_Assistant
 python -m venv venv
 source venv/bin/activate # Windows Terminal: .\venv\Scripts\activate
