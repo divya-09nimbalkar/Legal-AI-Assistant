@@ -1,17 +1,17 @@
 
 ```markdown
-# ⚖️ Legal AI Assistant
+#  Legal AI Assistant
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://python.org)
 [![Google Gemini](https://img.shields.io/badge/Google_Gemini-2.5--flash-blueviolet.svg)](https://aistudio.google.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Status](https://img.shields.io/badge/Status-Production_Ready-brightgreen.svg)]()
 
-> 🚀 An interactive contract compliance and auditing application that leverages **Google Gemini 2.5-Flash JSON enforcement models** to parse raw legal text pools, isolate asymmetric liabilities, output counter-negotiation redlines, and run context-aware legal chats.
+>  An interactive contract compliance and auditing application that leverages **Google Gemini 2.5-Flash JSON enforcement models** to parse raw legal text pools, isolate asymmetric liabilities, output counter-negotiation redlines, and run context-aware legal chats.
 
 ---
 
-## 📑 Table of Contents
+##  Table of Contents
 - [Overview](#overview)
 - [System Architecture](#system-architecture)
 - [Key Features](#key-features)
@@ -23,13 +23,13 @@
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 Commercial agreements frequently hide asymmetrical liabilities within complex boilerplate text. The **Legal AI Assistant** simplifies contract reviews by systematically isolating high-risk terms (such as extreme indemnification or unlimited liability), mapping out counter-negotiation redlines, and evaluating overall document compliance against institutional standards.
 
 ---
 
-## 🏗️ System Architecture
+##  System Architecture
 
 
 ```
