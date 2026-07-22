@@ -32,7 +32,6 @@ Commercial agreements frequently hide asymmetrical liabilities within complex bo
 ##  System Architecture
 
 
-```
 
 Raw Unstructured Contract Document Input
 │
